@@ -26,7 +26,7 @@ Repo'da bulunan `world.sqlite` database dosyasini bilgisayariniza indirin. `DB B
 
 
 
-## ODEV 3:
+## ODEV 3: Python Sqlite
 Bir Python programi olusturun ve sqlite3 modulu ile `world.sqlite` database'ine baglanin. Ardindan asagida yer alan sorulari yanitlayacak kodlari programiniza ekleyin.
 
 1. X ülkesinin başkenti neresidir? (X kullanıcı inputu olacaktır)
