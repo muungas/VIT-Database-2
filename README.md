@@ -11,7 +11,7 @@ Repo'da bulunan `onlinemarket.db` database dosyasini bilgisayariniza indirin. `D
 
 
 
-## ODEV 2: Sql Joins 2
+## ODEV 2: Sql Joins 2 (Zor)
 Repo'da bulunan `world.sqlite` database dosyasini bilgisayariniza indirin. `DB Browser for Sqlite` programinda `Open Database` secenegi ile `world.sqlite` veritabanini acin ve asagidaki sorulara cevaplar verecek SQL querylerini (sorgularini) yazin. Bir `cevaplar2.txt` dosyasi olusturup her soru icin kullandiginiz SQL sorgunuzu ekleyin ve ardindan bu text dosyasini repoya yukleyin.
 
 1. "city" ve "country" tablolarını düşünün. Nüfusu 1 milyondan fazla olan her şehrin adını, ilgili ülke adını ve nüfusunu almak için bir SQL sorgusu yazın.
