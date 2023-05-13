@@ -2,7 +2,7 @@
 
 
 ## ODEV 1: Sql Joins
-Repo'da bulunan `onlinemarket.sqlite` database dosyasini bilgisayariniza indirin. `DB Browser for Sqlite` programinda `Open Database` secenegi ile `world.sqlite` veritabanini acin ve asagidaki sorulara cevaplar verecek SQL querylerini (sorgularini) yazin. Bir `cevaplar.txt` dosyasi olusturup her soru icin kullandiginiz SQL sorgunuzu ekleyin ve ardindan bu text dosyasini repoya yukleyin.
+Repo'da bulunan `onlinemarket.db` database dosyasini bilgisayariniza indirin. `DB Browser for Sqlite` programinda `Open Database` secenegi ile `world.sqlite` veritabanini acin ve asagidaki sorulara cevaplar verecek SQL querylerini (sorgularini) yazin. Bir `cevaplar.txt` dosyasi olusturup her soru icin kullandiginiz SQL sorgunuzu ekleyin ve ardindan bu text dosyasini repoya yukleyin.
 1. Siparisleri, siparis veren musterilerin bilgileri ile almak icin bir SQL sorgusu yazin.
 2. Sipariş edilen ürünlerin isimlerini ve ilgili kategorilerini almak icin bir SQL sorgusu yazin.
 3. Müşterilerin müşteri bilgilerini ve varsa sipariş detaylarını almak icin bir SQL sorgusu yazin.
