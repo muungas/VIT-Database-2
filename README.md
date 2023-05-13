@@ -7,7 +7,7 @@ Repo'da bulunan `onlinemarket.sqlite` database dosyasini bilgisayariniza indirin
 2. Sipariş edilen ürünlerin isimlerini ve ilgili kategorilerini almak icin bir SQL sorgusu yazin.
 3. Müşterilerin müşteri bilgilerini ve varsa sipariş detaylarını almak icin bir SQL sorgusu yazin.
 4. Ürünlerin isimlerini, fiyatlarını ve varsa ilgili kategori adlarını almak icin bir SQL sorgusu yazin.
-5. Aynı soyadını paylaşan müşterilerin ve bu musterilere ait sipariş detaylarını almak için bir SQL sorgusu yazın.
+5. Aynı soyadını paylaşan müşterileri ve bu musterilere ait sipariş detaylarını almak için bir SQL sorgusu yazın.
 
 
 
